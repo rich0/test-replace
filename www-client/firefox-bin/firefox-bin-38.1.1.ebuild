@@ -1,6 +1,6 @@
 # Copyright 1999-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/www-client/firefox-bin/firefox-bin-38.1.1.ebuild,v 1.3 2015/08/07 18:15:22 ago Exp $
+# $Id$
 
 EAPI="5"
 MOZ_ESR=1

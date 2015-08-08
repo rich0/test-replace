@@ -1,6 +1,6 @@
 # Copyright 1999-2015 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
-# $Header: /var/cvsroot/gentoo-x86/dev-lang/python/python-2.6.9.ebuild,v 1.7 2015/04/23 19:25:27 floppym Exp $
+# $Id$
 
 EAPI="2"
 WANT_AUTOMAKE="none"
